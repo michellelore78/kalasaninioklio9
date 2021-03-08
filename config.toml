@@ -1,0 +1,4 @@
+baseURL = "https://kudrisa-musicawom88.vercel.app"
+languageCode = "en-us"
+title = "PDF Sheet Music Modern"
+theme = "hugo-theme-minos"
